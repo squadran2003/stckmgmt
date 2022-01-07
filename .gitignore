@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+bin/
 build/
 develop-eggs/
 dist/
@@ -36,7 +37,7 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
-
+pyvenv.cfg
 # Unit test / coverage reports
 htmlcov/
 .tox/
